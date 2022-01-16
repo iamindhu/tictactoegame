@@ -7,5 +7,5 @@ To run:
 
 
 ```
-python3 tictacto.py
+python3 tictactoe.py
 ```
